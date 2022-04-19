@@ -1,7 +1,7 @@
 {
-  "name": "stuttter/wp-term-order",
-  "description": "Sort taxonomy terms, your way",
-  "homepage": "https://github.com/stuttter/wp-term-order",
+  "name": "filmbot/wp-term-order",
+  "description": "Official Filmbot fork of the WP Term Order plugin. ",
+  "homepage": "https://github.com/filmbot/wp-term-order",
   "type": "wordpress-plugin",
   "require": {
     "php": ">=5.2",
@@ -9,6 +9,11 @@
   },
   "license": "GPL-2.0-or-later",
   "authors": [
+    {
+      "name": "Filmbot",
+      "email": "support@filmbot.com",
+			"homepage": "https://filmbot.com",
+    },
     {
       "name": "John James Jacoby",
       "email": "johnjamesjacoby@me.com"
